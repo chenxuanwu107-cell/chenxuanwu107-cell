@@ -8,9 +8,10 @@ Exploring the intersection of software engineering, AI systems, and creative pra
 
 - **Anti-entropy Creative Studio** — An ongoing initiative for creative and technical exploration.
 - **Xuanwu AI** — A local-first cognitive agent platform, currently in research and development.
-- **XCSOA SE12** — A research framework for twelve software engineering roles and their agent skills.
-  R01 (Requirements Engineering) and R02 (Engineering Coordination & Handoff) are being prepared
-  for their first public release. The remaining ten roles are planned for gradual research and publication.
+- **[XCSOA SE12](https://github.com/chenxuanwu107-cell/xcsoa-se12-r01-r02)** — A research framework for twelve software engineering roles and their agent skills.
+  R01 (Requirements Engineering) and R02 (Engineering Coordination & Handoff) have their first
+  public Research Candidate release. The remaining ten roles are planned for gradual research and publication,
+  with no release dates promised. Research Candidate status does not imply formal capability certification.
 
 ## Long-term interests
 
